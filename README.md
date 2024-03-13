@@ -12,7 +12,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-✅ FULL source codes of "https://t.me/SolanaTradingBot"!
+✅ FULL source codes of "https://t.me/delugebuybot"!
 
 ✅ Works on Telegram!
 
